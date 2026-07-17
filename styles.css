@@ -1,0 +1,30 @@
+/* Canvas Split Open Plugin Styles */
+
+.menu-item[data-action="canvas-split-open"] {
+  color: var(--text-normal);
+}
+
+.menu-item[data-action="canvas-split-open"]:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+/* Canvas Card Menu Button Styles */
+.canvas-menu .split-open-button,
+.canvas-menu .fullscreen-open-button {
+  position: relative;
+}
+
+.canvas-menu .split-open-button:hover,
+.canvas-menu .fullscreen-open-button:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+.canvas-menu .split-open-button svg,
+.canvas-menu .fullscreen-open-button svg {
+  color: var(--icon-color);
+}
+
+.canvas-menu .split-open-button:hover svg,
+.canvas-menu .fullscreen-open-button:hover svg {
+  color: var(--icon-color-hover);
+}

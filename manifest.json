@@ -1,0 +1,11 @@
+{
+  "id": "canvas-split-open",
+  "name": "Canvas Split Open",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Add a button to Canvas file cards that opens the note in split view",
+  "author": "Edward Luo",
+  "authorUrl": "https://github.com/edwluo",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
